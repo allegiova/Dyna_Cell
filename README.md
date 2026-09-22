@@ -1,4 +1,4 @@
-# Force Cell — Hardware & BLE Software
+# Force Cell v2 — Hardware & BLE Software
 
 Development repository for the **hardware and software of a custom force cell**, focused on improving the performance of the first prototype.
 
